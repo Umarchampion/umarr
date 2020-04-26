@@ -103,8 +103,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈\033[1;91m.....０３０９４１６１４
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈")
 print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mLogin Kali.linux\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•"
 
-CorrectUsername = "umii"
-CorrectPassword = "saqi"
+CorrectUsername = "kalilinux"
+CorrectPassword = "lovehacker"
 
 loop = 'true'
 while (loop == 'true'):
